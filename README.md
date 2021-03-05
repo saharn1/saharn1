@@ -56,14 +56,14 @@ lwkndlkwndlwekdn
 ###  <img align='left' src= "https://media.giphy.com/media/3oeSAOPx2gD1PkEE48/giphy.gif" width="230"> A little more about me...  
 
  ```javascript
- const ziang = {
+ const Sahar = {
    pronouns: "he" | "him",
    code: [Javascript, Reactnative, HTML, CSS, Git, Node, Java, Kotlin, Mysql],
    tools: [React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman],
    interests: ["web frontend development", "User interface", "design system pattern"],
    info: {
-                         language: "Chinese/English/Finnish(Studying now)",
-                         habits: "Coding, video games, badminton",
+                         language: "Hebrew/English/russian/swedish(Studying now)",
+                         habits: "Coding, Travel, Cycle",
                          location: "Helsinki,espoo"
                        },
 
