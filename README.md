@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
-
-<h1> <iframe src="https://giphy.com/embed/9WC8WTZsFxkRi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hack-9WC8WTZsFxkRi">via GIPHY</a></p></h1>
-**saharn1/saharn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-**saharn1/saharn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-
+-Here are some ideas to get you started:
+-
+-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,3 +15,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+<h1>Hi, I am Sahar Nagar! <img align='right' src= "https://media.giphy.com/media/WwMHQqMG0yirepFPP8/giphy.gif" width="68"> 
+<img align='left' src= "https://media.giphy.com/media/hS3ZfLtJXqjfaYbGve/giphy.gif" width="50"></h1>
+nsmnmsdnm msndfmndfmnsd. msnfmsnfmnsfmsnfm msdfmnfwnflkwneflkwnflkwnflkwnflkwnfl
+
+
+ ---
+
+<h2> <img align=right src= "https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="230"> </h2>
+hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
+lwkdlwkewklnlw wedwejkndwkjnewk 
+wdnwdjwndkjwnd wedlkwn
+lwkndlkwndlwekdn hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
+lwkdlwkewklnlw wedwejkndwkjnewk 
+wdnwdjwndkjwnd wedlkwn
+lwkndlkwndlwekdn hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
+lwkdlwkewklnlw wedwejkndwkjnewk 
+wdnwdjwndkjwnd wedlkwn
+lwkndlkwndlwekdn hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
+lwkdlwkewklnlw wedwejkndwkjnewk 
+wdnwdjwndkjwnd wedlkwn
+lwkndlkwndlwekdn
+
+ ---
+<h3> <img align='down' src= "https://media.giphy.com/media/3oeSAOPx2gD1PkEE48/giphy.gif" width="230"> </h3>
+
