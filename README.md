@@ -62,7 +62,7 @@ lwkndlkwndlwekdn
    tools: [React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman],
    interests: ["web frontend development", "User interface", "design system pattern"],
    info: {
-                         language: "Hebrew/English/russian/swedish(Studying now)",
+                         language: "Hebrew/English/Russian/Swedish(Studying now)",
                          habits: "Coding, Travel, Cycle",
                          location: "Helsinki,espoo"
                        },
