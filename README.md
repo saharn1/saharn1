@@ -58,9 +58,9 @@ lwkndlkwndlwekdn
  ```javascript
  const Sahar = {
    pronouns: "he" | "him",
-   code: [Javascript, Reactnative, HTML, CSS, Git, Node, Java, Kotlin, Mysql],
-   tools: [React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman],
-   interests: ["web frontend development", "User interface", "design system pattern"],
+   code: [Python, Javascript, Reactnative, HTML, CSS, Git, Node, Java, Kotlin, Mysql],
+   tools: [ React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman],
+   interests: ["web frontend development", "User interface", "Data Analysis"],
    info: {
                          language: "Hebrew/English/Russian/Swedish(Studying now)",
                          habits: "Coding, Travel, Cycle",
