@@ -18,7 +18,8 @@
  
 <h1>Hi, I am Sahar Nagar! <img align='right' src= "https://media.giphy.com/media/WwMHQqMG0yirepFPP8/giphy.gif" width="68"> 
 <img align='left' src= "https://media.giphy.com/media/hS3ZfLtJXqjfaYbGve/giphy.gif" width="50"></h1>
-nsmnmsdnm msndfmndfmnsd. msnfmsnfmnsfmsnfm msdfmnfwnflkwneflkwnflkwnflkwnflkwnfl
+Software Engineer passionate learner, experienced with Python, Data, IoT, JavaScript
+
 
 
  ---
