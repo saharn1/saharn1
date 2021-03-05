@@ -37,19 +37,9 @@ Software Engineer passionate learner, experienced with Python, Data, IoT, JavaSc
 
 
 
-hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
-lwkdlwkewklnlw wedwejkndwkjnewk 
-wdnwdjwndkjwnd wedlkwn
-lwkndlkwndlwekdn hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
-lwkdlwkewklnlw wedwejkndwkjnewk 
-wdnwdjwndkjwnd wedlkwn
-lwkndlkwndlwekdn hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
-lwkdlwkewklnlw wedwejkndwkjnewk 
-wdnwdjwndkjwnd wedlkwn
-lwkndlkwndlwekdn hsdjkhkjhdkwdhwkhdkj wkdjwjkednekwjdnew kwjdwejkndewknwekjn kwejndkn
-lwkdlwkewklnlw wedwejkndwkjnewk 
-wdnwdjwndkjwnd wedlkwn
-lwkndlkwndlwekdn
+### while(!(succeed = try()))
+
+### The distance between your dreams and reality is called Action
 
  ---
 
