@@ -66,5 +66,5 @@ lwkndlkwndlwekdn
                          language: "Hebrew/English/Russian/Swedish(Studying now)",
                          habits: "Coding, Travel, Cycle",
                          location: "Helsinki,espoo"
-                       },
-
+                       }}
+                       
